@@ -1,5 +1,5 @@
 $ dig https://buckel.co +nostats +nocomments +nocmd
     > ;https://bucketl.co.                    IN      A
-    > https://bucketl.co.             3592    IN      CNAME   bucketlistco.github.io.
-    > bucketlistco.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER .
+    > https://bucketl.co.             3592    IN      CNAME   joareliz05.github.io.
+    > joareliz05.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER .
     > GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
